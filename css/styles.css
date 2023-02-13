@@ -1,0 +1,33 @@
+body{
+    background-color: seashell;
+}
+h1{
+    color:blue;
+}
+p{
+    color:#DC0000;
+}
+/*กำหนด hr ไข่ปลา*/
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 20%;
+}
+
+.cat{
+    background-color: pink;
+}
+
+.star{
+    background-color: peachpuff;
+}
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+    color: blueviolet;
+    font-style: italic;
+}
